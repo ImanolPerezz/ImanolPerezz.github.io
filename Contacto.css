@@ -1,0 +1,20 @@
+header{
+    background-color: burlywood;
+    width: 100%;
+}
+
+body{
+    background-color: burlywood;
+}
+
+.cuerpo{
+    border: 100%;
+    border-style:groove;
+    border-color: coral;
+    border-radius: 20px;
+    background-color: burlywood;
+}
+
+div{
+    background-color:grey;
+}
